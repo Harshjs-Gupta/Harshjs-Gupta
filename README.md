@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://harshgupta-protfolio.vercel.app/](https://harshgupta-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://harshgupta-dev.vercel.app/](https://harshgupta-dev.vercel.app/)
 
 - 💬 Ask me about **JavaScript, ReactJs, NextJs**
 
