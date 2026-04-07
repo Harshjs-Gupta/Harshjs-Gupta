@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://harsh-gupta.live](https://harsh-gupta.live)
+- 👨‍💻 All of my projects are available at [https://harsh-gupta.live](https://harsh-gupta-portfolio-dev.vercel.app/)
 
 - 💬 Ask me about **JavaScript, ReactJs, NextJs**
 
