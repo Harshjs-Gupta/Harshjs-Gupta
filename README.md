@@ -17,7 +17,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on [Wardrobe Exchange](https://wardrobe-exchange.vercel.app/)
+- 🔭 I’m currently updating and adding dashboard on [EzzyShop](https://wardrobe-exchange.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
