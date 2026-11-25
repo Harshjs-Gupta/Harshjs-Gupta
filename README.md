@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F19&height=200&section=header&text=HARSH%20GUPTA&fontSize=58&fontColor=55B8FF&fontAlignY=40&desc=FRONTEND%20DEVELOPER%20%7C%20AI%20ENGINEERING%20ENTHUSIAST&descSize=13&descAlignY=70&animation=fadeIn" />
+<img src="assets/hero.svg" width="100%" alt="Harsh Gupta — Frontend Universe" />
 
 <br/>
 
